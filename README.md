@@ -1,4 +1,4 @@
-**Hi, I'm Khyle 🤖**
+**Hi, I'm Khyle 👋🏻**
 
 I’m a **Full-Stack Software Engineer** with experience in building **end-to-end applications**
 
