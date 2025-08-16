@@ -3,6 +3,7 @@
 I’m a **Full-Stack Software Engineer** with experience in building **end-to-end applications**
 
 **What I do:**
+
 **Web Design** → I create UI layouts and components in Figma, focusing on design consistency and smooth integration.
 **Front-End Development** → I build responsive and interactive user interfaces using React, JavaScript, HTML, CSS, and Tailwind.
 **Back-End Development** → I develop APIs and server-side logic with Node.js, Express.js, and manage data with PostgreSQL.
